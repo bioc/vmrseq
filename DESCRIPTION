@@ -1,8 +1,12 @@
 Package: vmrseq
 Type: Package
 Title: Probabilistic Modeling of Single-cell Methylation Heterogeneity
-Version: 1.5.0
-Authors@R: person("Ning", "Shen", email = "ning.shen.wk@gmail.com",role = c("aut", "cre"))
+Version: 1.5.1
+Authors@R:     
+     c(person("Keegan", "Korthauer", , "kkorthauer@cmmt.ubc.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4565-1654")),
+      person("Ning", "Shen", , "ning.shen.wk@gmail.com", role = c("aut"),
+           comment = c(ORCID = "0000-0002-2974-1086")))
 Description: High-throughput single-cell measurements of DNA methylation allows studying inter-cellular epigenetic heterogeneity, but this task faces the challenges of sparsity and noise. We present vmrseq, a statistical method that overcomes these challenges and identifies variably methylated regions accurately and robustly.
 License: MIT + file LICENSE
 Encoding: UTF-8
