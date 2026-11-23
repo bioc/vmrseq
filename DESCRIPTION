@@ -1,7 +1,7 @@
 Package: vmrseq
 Type: Package
 Title: Probabilistic Modeling of Single-cell Methylation Heterogeneity
-Version: 1.6.0
+Version: 1.7.0
 Authors@R:     
      c(person("Keegan", "Korthauer", , "kkorthauer@cmmt.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-4565-1654")),
